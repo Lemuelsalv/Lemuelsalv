@@ -1,9 +1,11 @@
- 👋 Olá, eu sou o Lemuel salviano
+ <div alingn="centro">
+ <h2>👋 Olá, eu sou o Lemuel salviano</h2>
  
-- 👀 Sou apaixonado por toda área de desenvolvimento web
+- 👀 Sou apaixonado por toda área de desenvolvimento web e programação
 - 🌱 No momento estou estudando typerscript
-- 📫 Fale comigo em lemuelsalv@gmail.com
+- 📫 Fale comigo em lemuelsalv@gmail.com ou em minhas redes sociais.
 <div align="center">
+ </div>
   
   <a href="https://github.com/lemuelsalv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemuelsalv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
